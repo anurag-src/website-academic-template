@@ -36,6 +36,5 @@ experience:
     location: Bangalore, India
     date_start: '2020-05-01'
     date_end: '2020-07-01'
-    description: |2-
-    Worked with other interns and employees to develop functional web pages for an education management software using the Angular framework and data visualization libraries. 
+    description: Worked with other interns and employees to develop functional web pages for an education management software using the Angular framework and data visualization libraries. 
 ---
