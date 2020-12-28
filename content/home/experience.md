@@ -37,9 +37,5 @@ experience:
     date_start: '2020-05-01'
     date_end: '2020-07-01'
     description: |2-
-        Responsibilities included:
-        
-        * Worked with other interns and employees to develop web pages for an education management software
-        * Use of Angular framework to create functional web pages from given interface mockups
-        * Data visualization libraries like google charts were used to display Program Outcomes and Course Outcomes for the software
+    Worked with other interns and employees to develop functional web pages for an education management software using the Angular framework and data visualization libraries. 
 ---
