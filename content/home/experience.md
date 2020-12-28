@@ -25,7 +25,7 @@ experience:
   - title: Student Research Assistant
     company: BITS Pilani, Hyderabad Campus
     location: Hyderabad, India
-    date_start: '2020-08'
+    date_start: '2020-08-01'
     date_end: ''
     description: Working under [Prof. Dipanjan Chakraborty](https://www.bits-pilani.ac.in/hyderabad/dipanjan/Profile) for constructing a Voice Information Retrieval system
     
@@ -34,8 +34,8 @@ experience:
     company: Heraizen Technologies Private Limited
     company_url: ''
     location: Bangalore, India
-    date_start: '2020-05'
-    date_end: '2020-07'
+    date_start: '2020-05-01'
+    date_end: '2020-07-01'
     description: |2-
         Responsibilities included:
         
